@@ -1,10 +1,7 @@
+# EX-01-Datatypes-Operators
 NAME: VIJAYAKUMAR S
 
 REG NO: 212224040359
-
-DATE: 27-04-2025
-
-# EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
 
@@ -35,6 +32,9 @@ Thus the program to read 3 characters one by one and print the characters in a r
 
 
 # EX-02- Conditional-Statements
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM:
 Write a C program to read A values and check whether A is positive number or not.
 
@@ -72,6 +72,9 @@ Thus the program to read A values and check whether A is positive number or not 
 
 
 # EX-03- Operators-Expressions
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM:
 Write a program to find minimum between two fraction numbers using conditional operator or ternary operator.
 
@@ -113,7 +116,9 @@ Thus the program to find minimum between two fraction numbers using conditional 
 
 
 # EX-04- Using Conditional Statements
+NAME: VIJAYAKUMAR S
 
+REG NO: 212224040359
 ## AIM:
 Write a C program to check whether the input value is equal to 1 using simple if statement
 
@@ -150,6 +155,9 @@ Thus the program to check whether the input value is equal to 1 using simple if 
 
 
 # EX-05- Calculating Total, Percentage, And Division Using Conditional Statements 
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM:
 To write a C program that reads marks of three subjects, calculates the total and percentage, and then determines the division (First, Second, Pass, or Fail) based on the percentage and minimum marks criteria.
 ## ALGORITHM:
